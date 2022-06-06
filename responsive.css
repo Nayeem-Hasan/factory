@@ -4,7 +4,12 @@
 		top: 20px;
 	}
 }
-
+ @media only screen and (max-width: 375px){
+	.slider-contents a {
+	  font-size: 10px;
+	  padding: 7px 2px;
+	}
+}
 /*Mobile Layout: 320px.*/
 @media only screen and (max-width: 767px){
 	.spaces-90{
