@@ -128,6 +128,9 @@
 .right-side ul{
 	padding: 0;
 }
+.service-box-title h2{
+	font-size: 18px;
+}
 .get-in-touch p i {
   padding: 0px;
   width: 20px;
